@@ -8,6 +8,10 @@ header{
     width: 100%;
 }
 
+#advanced_button{
+    background-color: #008CBA;
+    color: white;
+}
 #advanced_header{
     color:red;
     margin:30px;
